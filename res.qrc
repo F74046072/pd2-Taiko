@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>gamebg.png</file>
+        <file>gameover.png</file>
+        <file>blue.png</file>
+        <file>red.png</file>
+        <file>tutorial.png</file>
+        <file>good.png</file>
+        <file>ok.png</file>
+        <file>miss.png</file>
+        <file>goodicon.png</file>
+        <file>missicon.png</file>
+        <file>okicon.png</file>
+        <file>num0.png</file>
+        <file>num1.png</file>
+        <file>num2.png</file>
+        <file>num3.png</file>
+        <file>num4.png</file>
+        <file>num5.png</file>
+        <file>num6.png</file>
+        <file>num7.png</file>
+        <file>num8.png</file>
+        <file>num9.png</file>
+        <file>combobar.png</file>
+        <file>openbg.jpg</file>
+        <file>result.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>openmusic.mp3</file>
+        <file>overmusic.mp3</file>
+        <file>don.mp3</file>
+        <file>ka.mp3</file>
+        <file>bluemoment.mp3</file>
+        <file>eonian.mp3</file>
+        <file>girigiri.mp3</file>
+        <file>godknows.mp3</file>
+        <file>hero.mp3</file>
+    </qresource>
+</RCC>
